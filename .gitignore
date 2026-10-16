@@ -1,0 +1,9 @@
+# .gitignore for architect-wisdom
+
+.idea/
+.vscode/
+*.swp
+*.tmp
+*~
+.DS_Store
+Thumbs.db
