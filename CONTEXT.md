@@ -74,5 +74,7 @@ flowchart TD
    * 將特定人名、公司名稱、敏感業務欄位抽離，替換為通用的架構術語與組織角色。
 3. **編纂成冊（Codification）**：
    * 按照 `AGENTS.md` 規定的標準模板（箴言、痛點、本質剖析、破局心法、Mermaid 圖表）落實為 Markdown 檔案。
-4. **索引同步（Indexing）**：
+4. **索引與編年同步（Indexing & Chronologizing）**：
    * 同步更新 `README.md` 的導讀目錄與 `CONTEXT.md` 的卷軸全景。
+   * 若達到「認知里程碑」（開闢新卷軸、入庫分水嶺篇章、重大思維典範轉移），依據 `AGENTS.md` 規範在 `CHANGELOG.md`（智庫編年誌）記上一筆。
+
